@@ -18,16 +18,16 @@ The map and some components are imported from Epic Games Marketplace.
 
 **To have a better experience download and add these downloadable items from MarketPlace.**
 
-![https://cdn.discordapp.com/attachments/799826831368126464/806388247793238076/unknown.png]
-![https://cdn.discordapp.com/attachments/799826831368126464/806388360410955776/unknown.png]
+![](https://cdn.discordapp.com/attachments/799826831368126464/806388247793238076/unknown.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/806388360410955776/unknown.png)
 
 The gun has a widget with HUD to show the actual ammunition per gun.
 
-![](RackMultipart20210203-4-jendlh_html_6122475a68a63f3c.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/806388675582754816/unknown.png)
 
 The enemies have many components as you can see:
 
-![](RackMultipart20210203-4-jendlh_html_b8d3bdee5f332447.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/806388751139209226/unknown.png)
 
 If you want to see all project and how it works you can see it in the GitHub repository:
 
@@ -43,19 +43,19 @@ There is a link where you can find the game:
 
 There you can see this:
 
-![](RackMultipart20210203-4-jendlh_html_def0011d1759a064.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/806388907679678464/unknown.png)
 
 Or this:
 
-![](RackMultipart20210203-4-jendlh_html_4c088ae9241487b4.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/806388965812469830/unknown.png)
 
-Maybe is a big download, thing if you really need do download it to play. ![](RackMultipart20210203-4-jendlh_html_4c088ae9241487b4.png)
+**Maybe it is a big download, thing if you really need do download it to play.**
 
-You only need to download it. But you can see this message. It is ok the file its ok, it will not destroy your PC, just download it.
+You only need to download it. But you can see this message. It is ok the file is ok, it will not destroy your PC, just download it.
 
-To play to need to download it, unzipped and run MyFirstProject application. You can find it in &quot;BuildVRShooterRelease\WindowsNoEditor\VRShooter&quot;
+To play to need to download it, unzipped and run VRShooter application. You can find it in &quot;BuildVRShooterRelease\WindowsNoEditor\VRShooter&quot;
 
-![](RackMultipart20210203-4-jendlh_html_5defb285dfa4a859.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/806389376594345986/unknown.png)
 
 **Game Presentation:**
 
@@ -76,7 +76,7 @@ When you start the game, you see a gun near to you, you can touch it to equip it
 
 Any gun shows your ammunition, also you can recharge.
 
-![](RackMultipart20210203-4-jendlh_html_fb1584a9c4cd45d.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/806389561298386959/unknown.png)
 
 **Game Over:**
 

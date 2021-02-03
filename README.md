@@ -8,7 +8,7 @@ VR Shooter is an Unreal Engine application for PC made using blueprints.
 
 This game was developed using Unreal Engine 4 version 4.25.4, in the image you can see the game structure.
 
-![https://cdn.discordapp.com/attachments/799826831368126464/806388118977511454/unknown.png]
+![(https://cdn.discordapp.com/attachments/799826831368126464/806388118977511454/unknown.png)]
 
 The game starts in MainMap, there is a Player, a collectible gun and an enemy&#39;s spawner.
 
